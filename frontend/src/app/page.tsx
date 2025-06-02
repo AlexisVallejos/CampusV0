@@ -1,6 +1,8 @@
+import Login from './Login'
+
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <Login />
   )
 }
 
